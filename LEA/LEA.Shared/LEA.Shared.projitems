@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>87e0b066-e799-48ad-948a-3a8e497280cd</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>LEA</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="$(MSBuildThisFileDirectory)App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="$(MSBuildThisFileDirectory)App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Common.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Components\Anticipation.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Components\Attentiveness.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Components\Learning.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Components\Personality.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Components\Prediction.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Components\Sentience.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Consciousness.cs" />
+  </ItemGroup>
+</Project>
