@@ -1,54 +1,60 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>KRRGHWANG0426</Machine>
-    <WindowsUser>rghwang</WindowsUser>
+    <Machine>HOME-PC</Machine>
+    <WindowsUser>NYRG</WindowsUser>
     <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>8fc50a80-628e-43e9-8e6c-dcbd7e30e557</PackageIdentityName>
-    <IntermediateOutputPath>C:\Users\rghwang\Documents\Visual Studio 2013\Projects\LEA\LEA\LEA.Windows\obj\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\obj\Debug\</IntermediateOutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\rghwang\Documents\Visual Studio 2013\Projects\LEA\LEA\LEA.Windows\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\rghwang\Documents\Visual Studio 2013\Projects\LEA\LEA\LEA.Windows\bin\Debug\LEA.Windows.exe">
+    <AppxPackagedFile Include="C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\bin\Debug\LEA.Windows.exe">
       <PackagePath>LEA.Windows.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rghwang\Documents\Visual Studio 2013\Projects\LEA\LEA\LEA.Windows\Assets\BadgeLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Reagan\Documents\GitHub\lea\Tasks\bin\Debug\Tasks.winmd">
+      <PackagePath>Tasks.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Reagan\Documents\GitHub\lea\packages\Univapps.1.0.0\lib\portable-win81+wpa81\Univapps.winmd">
+      <PackagePath>Univapps.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\Assets\BadgeLogo.scale-100.png">
       <PackagePath>Assets\BadgeLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rghwang\Documents\Visual Studio 2013\Projects\LEA\LEA\LEA.Windows\Assets\Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rghwang\Documents\Visual Studio 2013\Projects\LEA\LEA\LEA.Windows\Assets\SmallLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\Assets\SmallLogo.scale-100.png">
       <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rghwang\Documents\Visual Studio 2013\Projects\LEA\LEA\LEA.Windows\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rghwang\Documents\Visual Studio 2013\Projects\LEA\LEA\LEA.Windows\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rghwang\Documents\Visual Studio 2013\Projects\LEA\LEA\LEA.Windows\bin\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rghwang\Documents\Visual Studio 2013\Projects\LEA\LEA\LEA.Windows\bin\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rghwang\Documents\Visual Studio 2013\Projects\LEA\LEA\LEA.Windows\bin\Debug\LEA.Windows.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\bin\Debug\LEA.Windows.xr.xml">
       <PackagePath>LEA.Windows.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rghwang\Documents\Visual Studio 2013\Projects\LEA\LEA\LEA.Windows\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

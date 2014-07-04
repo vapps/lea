@@ -44,7 +44,7 @@
       <InProcessServer>
         <Path>CLRHost.dll</Path>
         <ActivatableClass ActivatableClassId="Tasks.LiveBackgroundTask" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Vapps.Helper" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Univapps.Helper" ThreadingModel="both" />
       </InProcessServer>
     </Extension>
   </Extensions>

@@ -17,8 +17,6 @@ namespace Tasks
             
             ToastTemplateType toastTmp = ToastTemplateType.ToastText02;
             XmlDocument toastXml = ToastNotificationManager.GetTemplateContent(toastTmp);
-
-
             
             XmlNodeList toastTextElements = toastXml.GetElementsByTagName("text");
             toastTextElements[0].AppendChild(toastXml.CreateTextNode("Hello World!"));
@@ -31,8 +29,8 @@ namespace Tasks
             toastNode.AppendChild(audio);
 
             ((XmlElement)toastNode).SetAttribute("launch", "{\"type\":\"toast\",\"param1\":\"12345\",\"param2\":\"67890\"}");
-            
             ToastNotification toast = new ToastNotification(toastXml);
+
 
             ToastNotificationManager.CreateToastNotifier().Show(toast);
 

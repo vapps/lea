@@ -15,12 +15,12 @@
   </Resources>
   <Applications>
     <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="LEA.Windows.App">
-      <m2:VisualElements DisplayName="LEA.Windows" Square150x150Logo="Assets\Logo.png" Square30x30Logo="Assets\SmallLogo.png" Description="LEA.Windows" ForegroundText="light" BackgroundColor="#464646">
+      <m2:VisualElements DisplayName="LEA.Windows" Square150x150Logo="Assets\Logo.png" Square30x30Logo="Assets\SmallLogo.png" Description="LEA.Windows" ForegroundText="light" BackgroundColor="#464646" ToastCapable="true">
         <m2:LockScreen Notification="badge" BadgeLogo="Assets\BadgeLogo.png" />
         <m2:SplashScreen Image="Assets\SplashScreen.png" />
       </m2:VisualElements>
       <Extensions>
-        <Extension Category="windows.backgroundTasks" EntryPoint="LEA.LiveBackgroundTask">
+        <Extension Category="windows.backgroundTasks" EntryPoint="Tasks.LiveBackgroundTask">
           <BackgroundTasks>
             <Task Type="timer" />
           </BackgroundTasks>

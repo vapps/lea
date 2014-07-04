@@ -25,6 +25,12 @@ namespace LEA
         public MainPage()
         {
             this.InitializeComponent();
+            Register.Click += Register_Click;
+        }
+
+        void Register_Click(object sender, RoutedEventArgs e)
+        {
+            Common.RegisterLiveBackGroundTask();
         }
     }
 }

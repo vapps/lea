@@ -109,10 +109,14 @@
       <Project>{79d29d33-3cdb-45a6-95d7-7594aaa9c2fb}</Project>
       <Name>Tasks</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\Vapps\Vapps.csproj">
-      <Project>{d58192ab-1589-49e1-b5de-638e9e10fb5d}</Project>
-      <Name>Vapps</Name>
-    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Univapps">
+      <HintPath>..\..\packages\Univapps.1.0.0\lib\portable-win81+wpa81\Univapps.winmd</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '12.0' ">
     <VisualStudioVersion>12.0</VisualStudioVersion>

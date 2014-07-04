@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>KRRGHWANG0426</Machine>
-    <WindowsUser>rghwang</WindowsUser>
+    <Machine>HOME-PC</Machine>
+    <WindowsUser>NYRG</WindowsUser>
     <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>8fc50a80-628e-43e9-8e6c-dcbd7e30e557</PackageIdentityName>
-    <IntermediateOutputPath>C:\Users\rghwang\Documents\Visual Studio 2013\Projects\LEA\LEA\LEA.Windows\obj\Debug\</IntermediateOutputPath>
-    <RegisteredManifestChecksum>308C2899CC263E000E7812B626324A7A6DE771B16007C5651ACF3135C8B317A9</RegisteredManifestChecksum>
+    <IntermediateOutputPath>C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>5DD2F1386FEE35C572DD6B9E19C4C41B16D3CEDDEF44E7A5A4EB5DA4725F0838</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>8fc50a80-628e-43e9-8e6c-dcbd7e30e557_1.0.0.0_neutral__bqx9s9bb46evc</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>8fc50a80-628e-43e9-8e6c-dcbd7e30e557_bqx9s9bb46evc!App</RegisteredUserModeAppID>
     <RegisteredPackageID>8fc50a80-628e-43e9-8e6c-dcbd7e30e557</RegisteredPackageID>
@@ -17,57 +17,65 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\rghwang\Documents\Visual Studio 2013\Projects\LEA\LEA\LEA.Windows\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-07-02T07:36:03.953</Modified>
+      <Modified>2014-07-04T09:24:12.428</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\rghwang\Documents\Visual Studio 2013\Projects\LEA\LEA\LEA.Windows\bin\Debug\LEA.Windows.exe">
+    <AppxPackagedFile Include="C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\bin\Debug\LEA.Windows.exe">
       <PackagePath>LEA.Windows.exe</PackagePath>
-      <Modified>2014-07-02T07:36:03.833</Modified>
+      <Modified>2014-07-04T09:24:10.161</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rghwang\Documents\Visual Studio 2013\Projects\LEA\LEA\LEA.Windows\Assets\BadgeLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Reagan\Documents\GitHub\lea\Tasks\bin\Debug\Tasks.winmd">
+      <PackagePath>Tasks.winmd</PackagePath>
+      <Modified>2014-07-04T09:22:35.923</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Reagan\Documents\GitHub\lea\packages\Univapps.1.0.0\lib\portable-win81+wpa81\Univapps.winmd">
+      <PackagePath>Univapps.winmd</PackagePath>
+      <Modified>2014-07-04T09:04:22.571</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\Assets\BadgeLogo.scale-100.png">
       <PackagePath>Assets\BadgeLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-07-02T07:25:37.134</Modified>
+      <Modified>2014-07-04T09:03:24.379</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rghwang\Documents\Visual Studio 2013\Projects\LEA\LEA\LEA.Windows\Assets\Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-03-12T12:06:34.000</Modified>
+      <Modified>2014-07-04T09:03:24.380</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rghwang\Documents\Visual Studio 2013\Projects\LEA\LEA\LEA.Windows\Assets\SmallLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\Assets\SmallLogo.scale-100.png">
       <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-03-12T12:06:34.000</Modified>
+      <Modified>2014-07-04T09:03:24.380</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rghwang\Documents\Visual Studio 2013\Projects\LEA\LEA\LEA.Windows\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-03-12T12:06:34.000</Modified>
+      <Modified>2014-07-04T09:03:24.381</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rghwang\Documents\Visual Studio 2013\Projects\LEA\LEA\LEA.Windows\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-03-12T12:06:34.000</Modified>
+      <Modified>2014-07-04T09:03:24.381</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rghwang\Documents\Visual Studio 2013\Projects\LEA\LEA\LEA.Windows\bin\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2014-07-02T06:23:52.028</Modified>
+      <Modified>2014-07-04T09:07:48.255</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rghwang\Documents\Visual Studio 2013\Projects\LEA\LEA\LEA.Windows\bin\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2014-07-02T06:23:52.031</Modified>
+      <Modified>2014-07-04T09:13:42.731</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rghwang\Documents\Visual Studio 2013\Projects\LEA\LEA\LEA.Windows\bin\Debug\LEA.Windows.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\bin\Debug\LEA.Windows.xr.xml">
       <PackagePath>LEA.Windows.xr.xml</PackagePath>
-      <Modified>2014-07-02T06:23:51.979</Modified>
+      <Modified>2014-07-04T09:07:48.248</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rghwang\Documents\Visual Studio 2013\Projects\LEA\LEA\LEA.Windows\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2014-07-02T07:36:03.893</Modified>
+      <Modified>2014-07-04T09:24:10.241</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

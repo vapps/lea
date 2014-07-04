@@ -1,3 +1,2 @@
-C:\Users\rghwang\Documents\Visual Studio 2013\Projects\LEA\LEA\LEA.WindowsPhone\LEA.WindowsPhone.csproj;neutral
-C:\Users\rghwang\Documents\Visual Studio 2013\Projects\LEA\Tasks\Tasks.csproj;neutral
-C:\Users\rghwang\Documents\Visual Studio 2013\Projects\LEA\Vapps\Vapps.csproj;neutral
+C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.WindowsPhone\LEA.WindowsPhone.csproj;neutral
+C:\Users\Reagan\Documents\GitHub\lea\Tasks\Tasks.csproj;neutral

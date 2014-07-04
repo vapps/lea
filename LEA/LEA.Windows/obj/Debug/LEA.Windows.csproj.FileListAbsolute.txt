@@ -30,3 +30,42 @@ C:\Users\rghwang\Documents\Visual Studio 2013\Projects\LEA\LEA\LEA.Windows\obj\D
 C:\Users\rghwang\Documents\Visual Studio 2013\Projects\LEA\LEA\LEA.Windows\obj\Debug\qualifiers.txt.intermediate
 C:\Users\rghwang\Documents\Visual Studio 2013\Projects\LEA\LEA\LEA.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\rghwang\Documents\Visual Studio 2013\Projects\LEA\LEA\LEA.Windows\obj\Debug\ProjectArchitectures.txt
+C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\bin\Debug\App.xbf
+C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\bin\Debug\MainPage.xbf
+C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\bin\Debug\LEA.Windows.xr.xml
+C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\bin\Debug\LEA.Windows.exe
+C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\bin\Debug\LEA.Windows.pdb
+C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\bin\Debug\resources.pri
+C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\bin\Debug\AppxManifest.xml
+C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\bin\Debug\LEA.Windows.build.appxrecipe
+C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\bin\Debug\Univapps.winmd
+C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\bin\Debug\Univapps.pri
+C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\obj\Debug\LEA.Windows.csprojResolveAssemblyReference.cache
+C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\obj\Debug\App.g.i.cs
+C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\obj\Debug\App.g.cs
+C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\obj\Debug\MainPage.g.i.cs
+C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\obj\Debug\MainPage.g.cs
+C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\obj\Debug\App.xaml
+C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\obj\Debug\App.xbf
+C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\obj\Debug\MainPage.xaml
+C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\obj\Debug\MainPage.xbf
+C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\obj\Debug\LEA.Windows.exe
+C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\obj\Debug\LEA.Windows.pdb
+C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\obj\Debug\priconfig.xml
+C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\obj\Debug\layout.resfiles
+C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\obj\Debug\resources.resfiles
+C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\obj\Debug\pri.resfiles
+C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\obj\Debug\qualifiers.txt
+C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\obj\Debug\Univapps.pri.xml
+C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\obj\Debug\ProjectArchitectures.txt
+C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\bin\Debug\Tasks.winmd
+C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\bin\Debug\Tasks.pdb
+C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.Windows\bin\Debug\Tasks.pri

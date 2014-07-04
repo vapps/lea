@@ -17,3 +17,22 @@ C:\Users\rghwang\Documents\Visual Studio 2013\Projects\LEA\Tasks\obj\Debug\quali
 C:\Users\rghwang\Documents\Visual Studio 2013\Projects\LEA\Tasks\obj\Debug\qualifiers.txt.intermediate
 C:\Users\rghwang\Documents\Visual Studio 2013\Projects\LEA\Tasks\obj\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\rghwang\Documents\Visual Studio 2013\Projects\LEA\Tasks\obj\Debug\Tasks.csprojResolveAssemblyReference.cache
+C:\Users\Reagan\Documents\GitHub\lea\Tasks\bin\Debug\Tasks.winmd
+C:\Users\Reagan\Documents\GitHub\lea\Tasks\bin\Debug\Tasks.pdb
+C:\Users\Reagan\Documents\GitHub\lea\Tasks\bin\Debug\Tasks.pri
+C:\Users\Reagan\Documents\GitHub\lea\Tasks\obj\Debug\Tasks.csprojResolveAssemblyReference.cache
+C:\Users\Reagan\Documents\GitHub\lea\Tasks\obj\Debug\Tasks.winmd
+C:\Users\Reagan\Documents\GitHub\lea\Tasks\obj\Debug\Tasks.pdb
+C:\Users\Reagan\Documents\GitHub\lea\Tasks\obj\Debug\Tasks.winmdobj
+C:\Users\Reagan\Documents\GitHub\lea\Tasks\obj\Debug\Tasks.compile.pdb
+C:\Users\Reagan\Documents\GitHub\lea\Tasks\obj\Debug\priconfig.xml
+C:\Users\Reagan\Documents\GitHub\lea\Tasks\obj\Debug\priconfig.xml.intermediate
+C:\Users\Reagan\Documents\GitHub\lea\Tasks\obj\Debug\layout.resfiles
+C:\Users\Reagan\Documents\GitHub\lea\Tasks\obj\Debug\layout.resfiles.intermediate
+C:\Users\Reagan\Documents\GitHub\lea\Tasks\obj\Debug\resources.resfiles
+C:\Users\Reagan\Documents\GitHub\lea\Tasks\obj\Debug\resources.resfiles.intermediate
+C:\Users\Reagan\Documents\GitHub\lea\Tasks\obj\Debug\pri.resfiles
+C:\Users\Reagan\Documents\GitHub\lea\Tasks\obj\Debug\pri.resfiles.intermediate
+C:\Users\Reagan\Documents\GitHub\lea\Tasks\obj\Debug\qualifiers.txt
+C:\Users\Reagan\Documents\GitHub\lea\Tasks\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Reagan\Documents\GitHub\lea\Tasks\obj\Debug\MultipleQualifiersPerDimensionFound.txt

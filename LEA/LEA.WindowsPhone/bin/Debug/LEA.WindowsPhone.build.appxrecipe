@@ -1,64 +1,64 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>KRRGHWANG0426</Machine>
-    <WindowsUser>rghwang</WindowsUser>
+    <Machine>HOME-PC</Machine>
+    <WindowsUser>NYRG</WindowsUser>
     <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>2941e01b-9446-4de9-8a7b-7600fbeb77f0</PackageIdentityName>
-    <IntermediateOutputPath>C:\Users\rghwang\Documents\Visual Studio 2013\Projects\LEA\LEA\LEA.WindowsPhone\obj\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.WindowsPhone\obj\Debug\</IntermediateOutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\rghwang\Documents\Visual Studio 2013\Projects\LEA\LEA\LEA.WindowsPhone\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.WindowsPhone\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\rghwang\Documents\Visual Studio 2013\Projects\LEA\LEA\LEA.WindowsPhone\bin\Debug\LEA.WindowsPhone.exe">
+    <AppxPackagedFile Include="C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.WindowsPhone\bin\Debug\LEA.WindowsPhone.exe">
       <PackagePath>LEA.WindowsPhone.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rghwang\Documents\Visual Studio 2013\Projects\LEA\Tasks\bin\Debug\Tasks.winmd">
+    <AppxPackagedFile Include="C:\Users\Reagan\Documents\GitHub\lea\Tasks\bin\Debug\Tasks.winmd">
       <PackagePath>Tasks.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rghwang\Documents\Visual Studio 2013\Projects\LEA\Vapps\bin\Debug\Vapps.winmd">
-      <PackagePath>Vapps.winmd</PackagePath>
+    <AppxPackagedFile Include="C:\Users\Reagan\Documents\GitHub\lea\packages\Univapps.1.0.0\lib\portable-win81+wpa81\Univapps.winmd">
+      <PackagePath>Univapps.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rghwang\Documents\Visual Studio 2013\Projects\LEA\LEA\LEA.WindowsPhone\Assets\Logo.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.WindowsPhone\Assets\Logo.scale-240.png">
       <PackagePath>Assets\Logo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rghwang\Documents\Visual Studio 2013\Projects\LEA\LEA\LEA.WindowsPhone\Assets\SmallLogo.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.WindowsPhone\Assets\SmallLogo.scale-240.png">
       <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rghwang\Documents\Visual Studio 2013\Projects\LEA\LEA\LEA.WindowsPhone\Assets\SplashScreen.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.WindowsPhone\Assets\SplashScreen.scale-240.png">
       <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rghwang\Documents\Visual Studio 2013\Projects\LEA\LEA\LEA.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
       <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rghwang\Documents\Visual Studio 2013\Projects\LEA\LEA\LEA.WindowsPhone\Assets\StoreLogo.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.WindowsPhone\Assets\StoreLogo.scale-240.png">
       <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rghwang\Documents\Visual Studio 2013\Projects\LEA\LEA\LEA.WindowsPhone\Assets\WideLogo.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.WindowsPhone\Assets\WideLogo.scale-240.png">
       <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rghwang\Documents\Visual Studio 2013\Projects\LEA\LEA\LEA.WindowsPhone\bin\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.WindowsPhone\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rghwang\Documents\Visual Studio 2013\Projects\LEA\LEA\LEA.WindowsPhone\bin\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.WindowsPhone\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rghwang\Documents\Visual Studio 2013\Projects\LEA\LEA\LEA.WindowsPhone\bin\Debug\LEA.WindowsPhone.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.WindowsPhone\bin\Debug\LEA.WindowsPhone.xr.xml">
       <PackagePath>LEA.WindowsPhone.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rghwang\Documents\Visual Studio 2013\Projects\LEA\LEA\LEA.WindowsPhone\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Reagan\Documents\GitHub\lea\LEA\LEA.WindowsPhone\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
